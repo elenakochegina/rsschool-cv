@@ -2,7 +2,7 @@
 **Phone:** 	058-400-5295  
 **E-mail:**	elenakochegina@gmail.com  
 **Location:** Chernihiv  
-**Languages:** English ,Russian, Ukrainian, Hebrew  
+**Languages:** Russian, Ukrainian, English, Hebrew  
 **Year of birth:** 1989  
 
 ## JUNIOR DEVELOPER 
@@ -58,4 +58,4 @@ describe('Login. Blank login and password' , function(){
 *Computer Science.*    
 **2015:** Tel-Ran Computing Solutions Ltd., Rehovot , Israel.  
 *Special program for adaptation of QA testers accordingly with Israel IT technologies by Ministry of Absorption.*   
-**2006-2012:** Chernihiv National University of Technology., Chernigov, Ukraine.
+**2006-2012:** Chernihiv National University of Technology., Chernihiv, Ukraine.
