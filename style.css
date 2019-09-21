@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    width:100%;
+    max-width: 1024px;
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size:18px;
+}
+
+
+.contacts,
+ .experiense_summary,
+ .work_experience,
+ .education{  
+    text-align: left;
+    margin-left: 35px;
+}
+
+
+img{
+    float:right;
+    margin-right: 20px;
+    width:250px;
+    height: 250px;
+}
+
+pre{
+    background-color:#f8f8f8;
+}
+
+.education li{
+    list-style-type: none;
+}
