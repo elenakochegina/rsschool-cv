@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    margin-left: 35px;
+    width: 1024px;
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+
+
+.contacts{  
+    text-align: left;
+}
+
+
+img{
+    float:right;
+    margin-right: 20px;
+    width:250px;
+    height: 250px;
+}
