@@ -52,3 +52,10 @@ describe('Login. Blank login and password' , function(){
 - [**PROKITCHENSOFTWARE**](http://www.prokitchensoftware.com/) - Prokitchen professional kitchen design software.  
 ***Duties:*** Manual testing. Usability / Functional / Regression / Smoke / Compatibility tests. Exploratory  testing  according user’s scenarios on different devices.
 
+### EDUCATION
+
+**2018-Present:** The Open University of Israel., Raanana , Israel.  
+*Computer Science.*    
+**2015:** Tel-Ran Computing Solutions Ltd., Rehovot , Israel.  
+*Special program for adaptation of QA testers accordingly with Israel IT technologies by Ministry of Absorption.*   
+**2006-2012:** Chernihiv National University of Technology., Chernigov, Ukraine.
