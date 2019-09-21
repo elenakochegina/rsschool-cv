@@ -39,16 +39,16 @@ describe('Login. Blank login and password' , function(){
 })
 ```
 **2015-2017: Elpisor LTD. SOFTWARE QA TESTER. Rehovot, Israel.**  
-- **LinkCare** - Web application for patient's administration at Israeli Clalit Health Services.  
+- **LINKCARE** - Web application for patient's administration at Israeli Clalit Health Services.  
 ***Duties:*** Performing automated Functional / Regression / Smoke testing with “IntelliJ IDEA” (Selenium Webdriver with TestNg framework). Manual testing with “Selenium IDE”.  
-- [**Accelify**](http://accelify.com/) - app. for tracking student information in US special schools.  
+- [**ACCELIFY**](http://accelify.com/) - app. for tracking student information in US special schools.  
 ***Duties:*** Automated tests with “Telerik Test Studio”: Functional / Performance / Load and Stress.
-- **Eyecon**- Visual mobile Address Book & Dialer application.  
+- **EYECON**- Visual mobile Address Book & Dialer application.  
 ***Duties:*** Manual mobile testing Exploratory / Regression / Usability. Server side API tests with “Postman” - single endpoints and sets of request (according to user scenarios and existing requirements). Development STP / STD.
-- [**Openweathermap API**](http://openweathermap.org/ ) - Weather information API.  
+- [**OPENWEATHERMAP API**](http://openweathermap.org/ ) - Weather information API.  
 ***Duties:*** Server side API tests with “Postman” – single endpoints and sets / Tests GEO cords.  
 
 **2013-2015: Real View-UA (IT development). SOFTWARE QA TESTER. Chernigov,Ukraine.**  
-- [**Prokitchensoftware**](http://www.prokitchensoftware.com/) - Prokitchen professional kitchen design software.  
+- [**PROKITCHENSOFTWARE**](http://www.prokitchensoftware.com/) - Prokitchen professional kitchen design software.  
 ***Duties:*** Manual testing. Usability / Functional / Regression / Smoke / Compatibility tests. Exploratory  testing  according user’s scenarios on different devices.
 
